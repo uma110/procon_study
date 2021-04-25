@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Body_mask
+  m_Mask: 01000000010000000000000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/Hips
+    m_Weight: 1
+  - m_Path: Armature/Hips/Leg_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Leg_L/Foot_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Leg_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Leg_R/Foot_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/Lowcap
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/Lowcap/Cap
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/Lowcap/Cap/Capitem
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/Upperear_L
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/Upperear_L/Ear_L
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/Upperear_R
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/Upperear_R/Ear_R
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder_L/Upperarm_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder_L/Upperarm_L/Arm_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder_L/Upperarm_L/Arm_L/Hand_L
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder_R/Upperarm_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder_R/Upperarm_R/Arm_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder_R/Upperarm_R/Arm_R/Hand_R
+    m_Weight: 1
+  - m_Path: Armature/Hips/Tail
+    m_Weight: 1
+  - m_Path: body
+    m_Weight: 1
